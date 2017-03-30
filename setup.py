@@ -15,7 +15,7 @@ setup(
     name='pi-rc522',
     packages=find_packages(),
     include_package_data=True,
-    version="2.0.0",
+    version="2.1.0",
     description='Raspberry Pi Python library for SPI RFID RC522 module.',
     long_description='Raspberry Pi Python library for SPI RFID RC522 module.',
     classifiers=[
